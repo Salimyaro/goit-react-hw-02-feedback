@@ -1,0 +1,6 @@
+.button {
+  text-transform: capitalize;
+}
+.button:not(:last-child) {
+  margin-right: 15px;
+}

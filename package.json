@@ -1,5 +1,5 @@
 {
-  "name": "create-react-app-template",
+  "name": "goit-react-hw-02-feedback",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -14,7 +14,7 @@
     "react-scripts": "4.0.1",
     "web-vitals": "^1.0.1"
   },
-  "homepage": "",
+  "homepage": "https://Salimyaro.github.io/goit-react-hw-02-feedback",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",

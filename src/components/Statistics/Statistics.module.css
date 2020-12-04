@@ -1,0 +1,13 @@
+.list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.itemName {
+  text-transform: capitalize;
+  margin-right: 15px;
+}
+.itemVal {
+  font-size: 18px;
+  font-weight: 500;
+}
